@@ -1,4 +1,4 @@
-### Hi there 👋
+![이미지](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=개발자%20박민혁입니다.)
 
 
 **Parkminem/Parkminem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
